@@ -1,0 +1,5 @@
+#remoteVideo {
+ filter: sepia(1);
+ -moz-filter: sepia(1);
+ -webkit-filter: sepia(1);
+}
